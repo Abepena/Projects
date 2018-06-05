@@ -1,0 +1,50 @@
+body{
+    background:#8ee68a;
+    color:rgb(219, 219, 219);
+}
+
+
+
+h3{
+    text-shadow: 1px 1px 5px black;
+    margin-top: 0;
+}
+p{
+    color: white;
+    margin-top: .5em;
+}
+
+.row{
+    background:rgb(44, 44, 44);
+    margin: 1em;
+    border-radius: 10px;
+}
+
+
+.left-content{
+margin: 1em 0 1em 1em;
+padding: 1em;
+background: rgb(145, 144, 144);
+border-radius:20px;
+
+
+}
+
+.sidebar{
+margin: 1em 0;
+padding: 1em;
+background: rgb(145, 144, 144);
+border-radius:20px;
+
+}
+
+img.sidebar-img{
+    margin-bottom: 1em;
+}
+
+footer{
+    background:rgb(44, 44, 44);
+    text-align: center;
+    padding: 1em;
+
+}

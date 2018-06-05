@@ -1,0 +1,14 @@
+body{
+    background:#8ee68a;
+}
+
+.img-responsive{
+    overflow:hidden;
+}
+
+footer{
+    background:#414040;
+    color: white;
+    padding:25px 0;
+    margin-top: 25px
+}
