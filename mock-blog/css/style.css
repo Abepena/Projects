@@ -7,7 +7,7 @@
     color: white;
 }
 .hero-img .container{
-
+    /* border:solid white; */
     position: absolute;
     height: 40%;
     width: 50%;
@@ -51,6 +51,11 @@ footer img{
 
 }
 
+footer p{
+    padding-top: 1em;
+}
+
 footer p a{
+
     color: white;
 }
