@@ -1,0 +1,56 @@
+.hero-img{
+    position: relative;
+    height:500px;
+    width:auto;
+    background: url(../images/car.jpg);
+    background-size: cover;
+    color: white;
+}
+.hero-img .container{
+
+    position: absolute;
+    height: 40%;
+    width: 50%;
+    bottom: 1em;
+    right: 0;
+    text-shadow: 5px 5px 10px #202020da;
+}
+
+.row .image img{
+    min-width: 100%;
+    padding: 1em;
+}
+
+
+
+
+.blogpost{
+    max-height: 100%;
+    max-width: 800px;
+    background:lightgray;
+    border-radius: 5px;
+    margin-bottom: 2em;
+    padding: 2em;
+    
+}
+.blogpost .blog-preview{
+    padding: 1em 0;
+}
+
+footer{
+    display:flex;
+    color:white;
+    background:black;
+    padding: 20px 40px;
+    justify-content: center;
+    
+}
+
+footer img{
+    max-height: 250px;
+
+}
+
+footer p a{
+    color: white;
+}
