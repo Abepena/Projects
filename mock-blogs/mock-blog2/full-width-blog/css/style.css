@@ -1,0 +1,28 @@
+.navbar{
+    margin-bottom:0;
+}
+.showcase{
+    background-size: cover;
+    background:  url('https://unsplash.it/1900/1080?image=1076') no-repeat center center scroll;
+    padding: 5em 0;
+
+}
+.showcase2{
+    min-height: 500px;
+    background: url('https://unsplash.it/1901/1080?image=1075');
+    background-position: top 10% center
+}
+.centered{
+    margin: 0 auto;
+}
+
+.section{
+    padding: 2em;
+}
+
+footer{
+    background:black;
+    color:white;
+    padding: 3em;
+    height: 10%
+}
