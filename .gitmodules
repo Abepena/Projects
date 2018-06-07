@@ -4,3 +4,6 @@
 [submodule "im-done-app"]
 	path = im-done-app
 	url = https://github.com/Abepena/im-done-app
+[submodule "flask_app"]
+	path = flask_app
+	url = https://github.com/Abepena/flask_app
